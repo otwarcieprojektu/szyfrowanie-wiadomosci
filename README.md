@@ -2,7 +2,7 @@
 
 ## Opis:
 
-Twoim zadaniem jest zaprojektowanie programu w języku Python, który umożliwi szyfrowanie i deszyfrowanie wiadomości tekstowych za pomocą popularnych algorytmów szyfrowania.
+Twoim zadaniem jest zaprojektowanie programu w wybranym języku (Python / C / C++ / C# / Java / JS), który umożliwi szyfrowanie i deszyfrowanie wiadomości tekstowych za pomocą popularnych algorytmów szyfrowania.
 
 ## Wymagania:
 
